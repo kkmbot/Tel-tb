@@ -1,0 +1,11 @@
+.env
+*.session
+*.session-journal
+server/index.json
+.gradle/
+build/
+local.properties
+.idea/
+
+__pycache__/
+*.pyc
